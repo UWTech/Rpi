@@ -2,6 +2,8 @@ Rpi
 ===
 
 half baked code
+
+
  The code contained in this repository is intentionally only partially functional.
  The goal is give people the opportunity to extend the code. 
  
